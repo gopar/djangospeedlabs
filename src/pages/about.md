@@ -3,35 +3,25 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Django Speed Labs focuses on improving the performance of real-world Django and PostgreSQL systems.
 
-![Astro Paper](public/astropaper-og.jpg)
+I’m a backend engineer specializing in diagnosing and fixing production bottlenecks — slow API endpoints, inefficient ORM queries, missing or ineffective indexes, and poorly tuned PostgreSQL configurations.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+Most performance issues aren’t solved by adding more hardware or random indexes. They’re solved by understanding how queries execute, how the ORM behaves, and how the database planner makes decisions.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## What I Help With
 
-## Features
+- Slow Django APIs
+- Query performance bottlenecks
+- Ineffective indexing
+- PostgreSQL tuning for production
+- Scaling issues as traffic grows
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+I focus on identifying the highest-impact bottlenecks and fixing them correctly.
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
 
-and so much more.
+## Work With Me
 
-## Show your support
+If your Django application is slow or your PostgreSQL database is under stress, I offer structured performance diagnostics and audits.
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+You can reach out via [email](mailto:hello@djangospeedlabs.com) or connect on [LinkedIn](https://www.linkedin.com/in/daniel-gopar-756b945b/).
