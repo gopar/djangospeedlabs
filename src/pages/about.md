@@ -5,9 +5,8 @@ title: "About"
 
 Django Speed Labs focuses on improving the performance of real-world Django and PostgreSQL systems.
 
-I’m a backend engineer specializing in diagnosing and fixing production bottlenecks — slow API endpoints, inefficient ORM queries, missing or ineffective indexes, and poorly tuned PostgreSQL configurations.
-
-Most performance issues aren’t solved by adding more hardware or random indexes. They’re solved by understanding how queries execute, how the ORM behaves, and how the database planner makes decisions.
+I’m a Backend engineer specializing in diagnosing and fixing production bottlenecks, and enjoy writing about my findings
+to better help other engineers in their journey as well.
 
 ## What I Help With
 
@@ -18,7 +17,6 @@ Most performance issues aren’t solved by adding more hardware or random indexe
 - Scaling issues as traffic grows
 
 I focus on identifying the highest-impact bottlenecks and fixing them correctly.
-
 
 ## Work With Me
 
