@@ -3,12 +3,12 @@ author: Gopar
 pubDatetime: 2026-02-11
 title: A PostgreSQL Upgrade Improved Query Speed by 63%
 slug: a-postgresql-upgrade-improved-query-speed-by-63
-featured: true
-draft: false
+featured: false
+draft: true
 tags:
-  - postgresql
+  - PostgreSQL
 description:
-  How an overdue upgrade unlocked overall faster performance.
+  How an overdue upgrade unlocked faster performance.
 ---
 
 We upgraded PostgreSQL 12 → 17 and TimescaleDB `1.7.5` → `2.21.0`.
@@ -21,7 +21,7 @@ Result:
 ## Table of contents
 
 ## Why the upgrade
-Originally this task of upgrading had been in the backlog for over 2 years because it was deemed "low priority" at the
+Originally this task of upgrading was in the backlog for over 2 years because it was deemed "low priority" at the
 time. What finally caused change was that since the PostgreSQL version was 12, it was now labeled as a security risk by
 the internal security team.
 
@@ -30,7 +30,7 @@ Since the project is using Django, we ended up using a pre-existing `manage.py` 
 "good-enough" job of fetching important and related models that the company cared about.
 
 For those who have done database bench-marking, know that this isn't a "clean" bench-marking method (Python garbage
-collecting, django ORM caching, network latency, etc can all affect results though it varies by how heavily), but for
+collecting, Django ORM caching, network latency, etc can all affect results though it varies by how heavily), but for
 this project it served as more than enough for our purposes.
 
 Also we tried to circumvent as much noise as we could on the database server side by syncing/flushing OS cache,
