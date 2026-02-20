@@ -1,10 +1,10 @@
 ---
 author: Gopar
-pubDatetime: 2026-02-11
+pubDatetime: 2026-02-20
 title: A PostgreSQL Upgrade Improved Query Speed by 63%
 slug: a-postgresql-upgrade-improved-query-speed-by-63
 featured: false
-draft: true
+draft: false
 tags:
   - PostgreSQL
 description:
