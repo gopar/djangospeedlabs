@@ -5,6 +5,7 @@ export const SITE = {
   desc: "Django + PostgesSQL optimizations",
   title: "Django Speed Labs",
   // ogImage: "astropaper-og.jpg",
+  ogImage: '',
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 10,
