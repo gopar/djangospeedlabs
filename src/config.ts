@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://djangospeedlabs.com/",
   author: "Gopar",
   profile: "https://github.com/gopar/",
-  desc: "Django + PostgesSQL optimizations",
+  desc: "Django + PostgreSQL optimizations",
   title: "Django Speed Labs",
   // ogImage: "astropaper-og.jpg",
   ogImage: '',
