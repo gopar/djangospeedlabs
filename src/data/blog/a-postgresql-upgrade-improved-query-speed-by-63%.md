@@ -11,8 +11,8 @@ description:
   How an overdue upgrade unlocked faster performance.
 ---
 
-We upgraded PostgreSQL 12 → 17 and TimescaleDB `1.7.5` → `2.21.0`.
-No code changes. No new indexes. No configuration tweaks.
+We upgraded PostgreSQL 12 → 17 and TimescaleDB `1.7.5` → `2.21.0`.\
+No code changes, and no new indexes.
 
 Result:
 - Cold queries: ~41% faster
